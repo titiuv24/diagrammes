@@ -1,0 +1,119 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0" version="28.2.5">
+  <diagram name="Page-1" id="ctzzueAPx8xzWj-xJQBD">
+    <mxGraphModel dx="1783" dy="939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="onD9EBs9aCGEJekHQbIZ-1" value="Demande création VLAN&#xa;Client/OneID/SolarID" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="540" y="180" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="onD9EBs9aCGEJekHQbIZ-2" value="Sélection automatique&#xa;du prochain VLAN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="550" y="280" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="onD9EBs9aCGEJekHQbIZ-3" style="endArrow=block;html=1;rounded=0;strokeColor=#6c8ebf;" edge="1" parent="1" source="onD9EBs9aCGEJekHQbIZ-1" target="onD9EBs9aCGEJekHQbIZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="onD9EBs9aCGEJekHQbIZ-4" value="Type de demande?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="560" y="370" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="onD9EBs9aCGEJekHQbIZ-5" style="endArrow=block;html=1;rounded=0;strokeColor=#6c8ebf;" edge="1" parent="1" source="onD9EBs9aCGEJekHQbIZ-2" target="onD9EBs9aCGEJekHQbIZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="onD9EBs9aCGEJekHQbIZ-6" value="SolarID&#xa;VLAN 2000-2499" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="320" y="520" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="onD9EBs9aCGEJekHQbIZ-7" value="OneID&#xa;VLAN 2500-3000" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="560" y="520" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="onD9EBs9aCGEJekHQbIZ-8" value="Client&#xa;VLAN 3400-3800" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="800" y="520" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="onD9EBs9aCGEJekHQbIZ-9" style="endArrow=block;html=1;rounded=0;" edge="1" parent="1" source="onD9EBs9aCGEJekHQbIZ-4" target="onD9EBs9aCGEJekHQbIZ-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="onD9EBs9aCGEJekHQbIZ-10" style="endArrow=block;html=1;rounded=0;" edge="1" parent="1" source="onD9EBs9aCGEJekHQbIZ-4" target="onD9EBs9aCGEJekHQbIZ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="onD9EBs9aCGEJekHQbIZ-11" style="endArrow=block;html=1;rounded=0;" edge="1" parent="1" source="onD9EBs9aCGEJekHQbIZ-4" target="onD9EBs9aCGEJekHQbIZ-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="onD9EBs9aCGEJekHQbIZ-12" value="Prochain VLAN libre&#xa;Ex: 3459 → 3460" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="560" y="650" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="onD9EBs9aCGEJekHQbIZ-13" style="endArrow=block;html=1;rounded=0;" edge="1" parent="1" source="onD9EBs9aCGEJekHQbIZ-6" target="onD9EBs9aCGEJekHQbIZ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="onD9EBs9aCGEJekHQbIZ-14" style="endArrow=block;html=1;rounded=0;" edge="1" parent="1" source="onD9EBs9aCGEJekHQbIZ-7" target="onD9EBs9aCGEJekHQbIZ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="onD9EBs9aCGEJekHQbIZ-15" style="endArrow=block;html=1;rounded=0;" edge="1" parent="1" source="onD9EBs9aCGEJekHQbIZ-8" target="onD9EBs9aCGEJekHQbIZ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="onD9EBs9aCGEJekHQbIZ-16" value="Attribution IP&#xa;séquentielle&#xa;Ex: 192.168.115.64/30&#xa;→ 192.168.115.68/30" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="720" y="750" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="onD9EBs9aCGEJekHQbIZ-17" style="endArrow=block;html=1;rounded=0;" edge="1" parent="1" source="onD9EBs9aCGEJekHQbIZ-12" target="onD9EBs9aCGEJekHQbIZ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="onD9EBs9aCGEJekHQbIZ-18" value="Vérification IPAM&#xa;VLAN et IPs libres?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="720" y="890" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="onD9EBs9aCGEJekHQbIZ-19" style="endArrow=block;html=1;rounded=0;" edge="1" parent="1" source="onD9EBs9aCGEJekHQbIZ-16" target="onD9EBs9aCGEJekHQbIZ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="onD9EBs9aCGEJekHQbIZ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="onD9EBs9aCGEJekHQbIZ-21" target="onD9EBs9aCGEJekHQbIZ-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="onD9EBs9aCGEJekHQbIZ-21" value="Conflit détecté&#xa;Sélectionner VLAN/IP&#xa;suivant" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="370" y="905" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="onD9EBs9aCGEJekHQbIZ-22" style="endArrow=block;html=1;rounded=0;curved=1;" edge="1" parent="1" source="onD9EBs9aCGEJekHQbIZ-18" target="onD9EBs9aCGEJekHQbIZ-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="940" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="onD9EBs9aCGEJekHQbIZ-23" value="Non" style="edgeLabel;resizable=0;align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" parent="onD9EBs9aCGEJekHQbIZ-22">
+          <mxGeometry x="0.5" y="-0.6" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="onD9EBs9aCGEJekHQbIZ-24" value="Configuration&lt;br&gt;&lt;br&gt;• Création Interface (VLAN &amp;amp; IP)&lt;br&gt;• Config DHCP&lt;br&gt;• Règles de filtrage" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="960" y="980" width="230" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="onD9EBs9aCGEJekHQbIZ-25" style="endArrow=block;html=1;rounded=0;curved=1;" edge="1" parent="1" source="onD9EBs9aCGEJekHQbIZ-18" target="onD9EBs9aCGEJekHQbIZ-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1030" y="940" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="950" y="940" />
+              <mxPoint x="1030" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="onD9EBs9aCGEJekHQbIZ-26" value="Oui" style="edgeLabel;resizable=0;align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" parent="onD9EBs9aCGEJekHQbIZ-25">
+          <mxGeometry x="0.5" y="-0.6" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="onD9EBs9aCGEJekHQbIZ-27" value="Mise à jour IPAM&lt;br&gt;• VLAN assigné&lt;br&gt;• Plage IP réservée" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="965" y="1130" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="onD9EBs9aCGEJekHQbIZ-28" style="endArrow=block;html=1;rounded=0;" edge="1" parent="1" source="onD9EBs9aCGEJekHQbIZ-24" target="onD9EBs9aCGEJekHQbIZ-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="onD9EBs9aCGEJekHQbIZ-29" value="VLAN opérationnel" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="995" y="1270" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="onD9EBs9aCGEJekHQbIZ-30" style="endArrow=block;html=1;rounded=0;" edge="1" parent="1" source="onD9EBs9aCGEJekHQbIZ-27" target="onD9EBs9aCGEJekHQbIZ-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
