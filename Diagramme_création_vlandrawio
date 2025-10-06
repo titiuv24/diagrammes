@@ -13,7 +13,7 @@
         <mxCell id="R_jxQAI4I1Jm1XEbucwb-3" style="endArrow=block;html=1;rounded=0;strokeColor=#6c8ebf;" parent="1" source="R_jxQAI4I1Jm1XEbucwb-1" target="R_jxQAI4I1Jm1XEbucwb-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R_jxQAI4I1Jm1XEbucwb-4" value="Type de demande?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="R_jxQAI4I1Jm1XEbucwb-4" value="Type de demande ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="280" y="230" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="R_jxQAI4I1Jm1XEbucwb-5" style="endArrow=block;html=1;rounded=0;strokeColor=#6c8ebf;" parent="1" source="R_jxQAI4I1Jm1XEbucwb-2" target="R_jxQAI4I1Jm1XEbucwb-4" edge="1">
@@ -62,7 +62,7 @@
         <mxCell id="R_jxQAI4I1Jm1XEbucwb-17" style="endArrow=block;html=1;rounded=0;" parent="1" source="R_jxQAI4I1Jm1XEbucwb-12" target="R_jxQAI4I1Jm1XEbucwb-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R_jxQAI4I1Jm1XEbucwb-18" value="Vérification IPAM&#xa;VLAN et IPs libres?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="R_jxQAI4I1Jm1XEbucwb-18" value="Vérification IPAM&lt;br&gt;VLAN et IPs libres ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="455" y="920" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="R_jxQAI4I1Jm1XEbucwb-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;curved=1;" parent="1" source="R_jxQAI4I1Jm1XEbucwb-21" target="R_jxQAI4I1Jm1XEbucwb-12" edge="1">
