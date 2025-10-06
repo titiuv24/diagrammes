@@ -56,7 +56,7 @@
         <mxCell id="R_jxQAI4I1Jm1XEbucwb-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="R_jxQAI4I1Jm1XEbucwb-16" target="R_jxQAI4I1Jm1XEbucwb-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R_jxQAI4I1Jm1XEbucwb-16" value="&lt;div&gt;Choix du masque selon nombre d&#39;IP&lt;/div&gt;&lt;div&gt;(La gateway consomme une IP)&lt;/div&gt;&lt;div&gt;/30 = 2 hôtes utilisables&lt;/div&gt;&lt;div&gt;/29 = 6&lt;/div&gt;&lt;div&gt;/28 = 14&lt;br&gt;Penser à prévoir l&#39;évolution du vlan (prendre un peu +)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="R_jxQAI4I1Jm1XEbucwb-16" value="&lt;div&gt;Choix du masque selon nombre d&#39;IP&lt;/div&gt;&lt;div&gt;(La gateway consomme une IP)&lt;/div&gt;&lt;div&gt;/30 = 2 hôtes utilisables&lt;/div&gt;&lt;div&gt;/29 = 6&lt;/div&gt;&lt;div&gt;/28 = 14&lt;br&gt;Penser à prévoir l&#39;évolution du vlan (prendre un peu plus)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="440" y="620" width="230" height="120" as="geometry" />
         </mxCell>
         <mxCell id="R_jxQAI4I1Jm1XEbucwb-17" style="endArrow=block;html=1;rounded=0;" parent="1" source="R_jxQAI4I1Jm1XEbucwb-12" target="R_jxQAI4I1Jm1XEbucwb-16" edge="1">
