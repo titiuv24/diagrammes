@@ -123,6 +123,18 @@
         </mxCell>
         <mxCell id="R_jxQAI4I1Jm1XEbucwb-32" value="Non" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="R_jxQAI4I1Jm1XEbucwb-31" vertex="1" connectable="0">
           <mxGeometry x="0.0751" y="9" relative="1" as="geometry">
+            <mxPoint x="11" y="23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1IZWFto7h4xoyuKHF5N5-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="R_jxQAI4I1Jm1XEbucwb-33" target="R_jxQAI4I1Jm1XEbucwb-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1125" y="1010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1IZWFto7h4xoyuKHF5N5-4" value="Oui" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1IZWFto7h4xoyuKHF5N5-3">
+          <mxGeometry x="0.0412" y="-27" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -132,24 +144,8 @@
         <mxCell id="R_jxQAI4I1Jm1XEbucwb-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="R_jxQAI4I1Jm1XEbucwb-35" target="R_jxQAI4I1Jm1XEbucwb-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R_jxQAI4I1Jm1XEbucwb-35" value="&lt;div&gt;Isolation&lt;/div&gt;&lt;div&gt;+ Préfixe DMZ devant nom du VLAN&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="980" y="1184.62" width="210" height="52.15" as="geometry" />
-        </mxCell>
-        <mxCell id="R_jxQAI4I1Jm1XEbucwb-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="R_jxQAI4I1Jm1XEbucwb-33" target="R_jxQAI4I1Jm1XEbucwb-35" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="890" y="1005" as="sourcePoint" />
-            <mxPoint x="900" y="1135.69" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1070" y="1010" />
-              <mxPoint x="1070" y="1175" />
-              <mxPoint x="1085" y="1175" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="R_jxQAI4I1Jm1XEbucwb-37" value="Oui" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="R_jxQAI4I1Jm1XEbucwb-36" vertex="1" connectable="0">
-          <mxGeometry x="0.0751" y="9" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
-          </mxGeometry>
+        <mxCell id="R_jxQAI4I1Jm1XEbucwb-35" value="&lt;div&gt;Isolation&lt;/div&gt;&lt;div&gt;+ Préfixe DMZ devant nom du VLAN&lt;br&gt;+ Séparer en deux VLANs DMZ et non DMZ ?&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="980" y="1173" width="290" height="75.38" as="geometry" />
         </mxCell>
         <mxCell id="R_jxQAI4I1Jm1XEbucwb-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="R_jxQAI4I1Jm1XEbucwb-38" target="R_jxQAI4I1Jm1XEbucwb-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
