@@ -150,7 +150,7 @@
         <mxCell id="R_jxQAI4I1Jm1XEbucwb-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="R_jxQAI4I1Jm1XEbucwb-38" target="R_jxQAI4I1Jm1XEbucwb-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R_jxQAI4I1Jm1XEbucwb-38" value="Attribution IP&#xa;séquentielle&#xa;Ex: 192.168.115.64/30&#xa;→ 192.168.115.68/30" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="R_jxQAI4I1Jm1XEbucwb-38" value="Attribution IP&lt;br&gt;séquentielle&lt;br&gt;Ex: 192.168.114.16/28&lt;br&gt;→ 192.168.114.32/28" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="440" y="780" width="230" height="100" as="geometry" />
         </mxCell>
       </root>
