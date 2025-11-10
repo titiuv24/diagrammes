@@ -199,13 +199,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ODh4-fPf6rMJeAxPBLoK-31" value="Autres&lt;div&gt;VLAN 2000-2499&lt;/div&gt;IP 172.20.0.0/16&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ODh4-fPf6rMJeAxPBLoK-31" value="Autres&lt;div&gt;VLAN 1701-1999&lt;/div&gt;IP 172.26.128.0/18&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="280" y="550" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ODh4-fPf6rMJeAxPBLoK-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ODh4-fPf6rMJeAxPBLoK-32" target="onD9EBs9aCGEJekHQbIZ-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ODh4-fPf6rMJeAxPBLoK-32" value="OneID&lt;br&gt;&lt;div&gt;VLAN 1501-1600&lt;/div&gt;&lt;div&gt;IP&amp;nbsp;172.26..0/16&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ODh4-fPf6rMJeAxPBLoK-32" value="OneID&lt;br&gt;&lt;div&gt;VLAN 1501-1600&lt;/div&gt;&lt;div&gt;IP&amp;nbsp;172.26.64.0/18&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="460" y="550" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ODh4-fPf6rMJeAxPBLoK-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ODh4-fPf6rMJeAxPBLoK-33">
@@ -217,7 +217,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ODh4-fPf6rMJeAxPBLoK-33" value="Client&lt;br&gt;&lt;div&gt;VLAN 3400-3800&lt;/div&gt;&lt;div&gt;IP 192.168.113-115.0/24&lt;/div&gt;172.22.0.0/16&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ODh4-fPf6rMJeAxPBLoK-33" value="Client&lt;br&gt;&lt;div&gt;VLAN 1601-1700&lt;/div&gt;172.26.64.0/18&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="640" y="550" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ODh4-fPf6rMJeAxPBLoK-34" style="endArrow=block;html=1;rounded=0;" edge="1" parent="1" source="ODh4-fPf6rMJeAxPBLoK-30" target="ODh4-fPf6rMJeAxPBLoK-31">
