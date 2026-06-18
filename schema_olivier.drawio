@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="SNd0UjQyqeZxcuwc7g9k">
+    <mxGraphModel dx="1608" dy="1668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lPvuPijrXA5V_kjDJQ-a-10" edge="1" parent="1" source="lPvuPijrXA5V_kjDJQ-a-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lPvuPijrXA5V_kjDJQ-a-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lPvuPijrXA5V_kjDJQ-a-11" edge="1" parent="1" source="lPvuPijrXA5V_kjDJQ-a-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lPvuPijrXA5V_kjDJQ-a-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lPvuPijrXA5V_kjDJQ-a-15" edge="1" parent="1" source="lPvuPijrXA5V_kjDJQ-a-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lPvuPijrXA5V_kjDJQ-a-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lPvuPijrXA5V_kjDJQ-a-1" parent="1" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.firewall;network2IconXOffset=0.0001;network2IconYOffset=0.0001;network2IconW=1;network2IconH=0.608;" value="FORTIGATE 30G" vertex="1">
+          <mxGeometry height="50" width="82.24" x="360" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lPvuPijrXA5V_kjDJQ-a-2" parent="1" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.globe;network2IconW=1;network2IconH=1;" value="INTERNET" vertex="1">
+          <mxGeometry height="50" width="50" x="375" y="-60" as="geometry" />
+        </mxCell>
+        <mxCell id="lPvuPijrXA5V_kjDJQ-a-4" parent="1" style="fillColorStyles=neutralFill;neutralFill=#9DA6A8;shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.wireless_hub;network2IconYOffset=-0.1142;network2IconW=1;network2IconH=0.5485;" value="ORANGE PBX PLUG 4/0" vertex="1">
+          <mxGeometry height="27.425" width="50" x="610" y="302.57" as="geometry" />
+        </mxCell>
+        <mxCell id="lPvuPijrXA5V_kjDJQ-a-12" edge="1" parent="1" source="lPvuPijrXA5V_kjDJQ-a-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lPvuPijrXA5V_kjDJQ-a-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lPvuPijrXA5V_kjDJQ-a-5" parent="1" style="fillColorStyles=neutralFill;neutralFill=#9DA6A8;shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.wireless_hub;network2IconYOffset=-0.1142;network2IconW=1;network2IconH=0.5485;" value="LIVEBOX BUSINESS 240" vertex="1">
+          <mxGeometry height="27.425" width="50" x="375" y="39.999999999999986" as="geometry" />
+        </mxCell>
+        <mxCell id="lPvuPijrXA5V_kjDJQ-a-16" edge="1" parent="1" source="lPvuPijrXA5V_kjDJQ-a-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lPvuPijrXA5V_kjDJQ-a-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lPvuPijrXA5V_kjDJQ-a-6" parent="1" style="fillColorStyles=neutralFill;neutralFill=#9DA6A8;shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.hub;network2IconXOffset=0.0001;network2IconYOffset=0.0129;network2IconW=1;network2IconH=0.2938;" value="NETGEAR PROSAFE GS108 (SWITCH 1GB 8 port)" vertex="1">
+          <mxGeometry height="14.69" width="50" x="370" y="230.00000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="lPvuPijrXA5V_kjDJQ-a-9" parent="1" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.antenna;network2IconYOffset=0.0004;network2IconW=0.508;network2IconH=0.9997;" value="FORTIAP" vertex="1">
+          <mxGeometry height="49.985" width="25.4" x="260" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lPvuPijrXA5V_kjDJQ-a-18" edge="1" parent="1" source="lPvuPijrXA5V_kjDJQ-a-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lPvuPijrXA5V_kjDJQ-a-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lPvuPijrXA5V_kjDJQ-a-26" edge="1" parent="1" source="lPvuPijrXA5V_kjDJQ-a-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lPvuPijrXA5V_kjDJQ-a-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lPvuPijrXA5V_kjDJQ-a-14" parent="1" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.patch_panel;network2IconXOffset=0.0001;network2IconYOffset=-0.0211;network2IconW=1;network2IconH=0.3359;" value="SWITCH OS6360-P10 (8ports POE - 2 GE - 2 SFP)" vertex="1">
+          <mxGeometry height="16.794999999999998" width="50" x="376.12" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="lPvuPijrXA5V_kjDJQ-a-20" edge="1" parent="1" source="lPvuPijrXA5V_kjDJQ-a-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lPvuPijrXA5V_kjDJQ-a-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lPvuPijrXA5V_kjDJQ-a-17" parent="1" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.phone;network2IconXOffset=0.0009;network2IconYOffset=-0.0064;network2IconW=0.9947;network2IconH=0.7947;" value="TELEPHONE VOIP ORANGE" vertex="1">
+          <mxGeometry height="39.735" width="49.735" x="170" y="318.53" as="geometry" />
+        </mxCell>
+        <mxCell id="lPvuPijrXA5V_kjDJQ-a-22" edge="1" parent="1" source="lPvuPijrXA5V_kjDJQ-a-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lPvuPijrXA5V_kjDJQ-a-21" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lPvuPijrXA5V_kjDJQ-a-25" edge="1" parent="1" source="lPvuPijrXA5V_kjDJQ-a-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lPvuPijrXA5V_kjDJQ-a-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lPvuPijrXA5V_kjDJQ-a-19" parent="1" style="fillColorStyles=neutralFill;neutralFill=#9DA6A8;shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.hub;network2IconXOffset=0.0001;network2IconYOffset=0.0129;network2IconW=1;network2IconH=0.2938;" value="SWITCH 5 Port non manageable" vertex="1">
+          <mxGeometry height="14.69" width="50" x="60" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="lPvuPijrXA5V_kjDJQ-a-21" parent="1" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.monitor;network2IconYOffset=-0.009;network2IconW=1;network2IconH=0.742;" value="" vertex="1">
+          <mxGeometry height="37.1" width="50" x="-50" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="lPvuPijrXA5V_kjDJQ-a-24" parent="1" style="fillColorStyles=neutralFill;neutralFill=#9DA6A8;shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.printer;network2IconW=1;network2IconH=1.04;" value="" vertex="1">
+          <mxGeometry height="52" width="50" x="-50" y="228.00000000000003" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
