@@ -65,7 +65,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lPvuPijrXA5V_kjDJQ-a-19" parent="1" style="fillColorStyles=neutralFill;neutralFill=#9DA6A8;shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.hub;network2IconXOffset=0.0001;network2IconYOffset=0.0129;network2IconW=1;network2IconH=0.2938;" value="SWITCH 5 Port non manageable" vertex="1">
-          <mxGeometry height="14.69" width="50" x="20" y="294.69" as="geometry" />
+          <mxGeometry height="14.69" width="50" x="10" y="294.69" as="geometry" />
         </mxCell>
         <mxCell id="lPvuPijrXA5V_kjDJQ-a-21" parent="1" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.monitor;network2IconYOffset=-0.009;network2IconW=1;network2IconH=0.742;" value="" vertex="1">
           <mxGeometry height="37.1" width="50" x="-90" y="330" as="geometry" />
