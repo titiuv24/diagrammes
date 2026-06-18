@@ -32,7 +32,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lPvuPijrXA5V_kjDJQ-a-6" parent="1" style="fillColorStyles=neutralFill;neutralFill=#9DA6A8;shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.hub;network2IconXOffset=0.0001;network2IconYOffset=0.0129;network2IconW=1;network2IconH=0.2938;" value="NETGEAR PROSAFE GS108 (SWITCH 1GB 8 port)" vertex="1">
-          <mxGeometry height="14.69" width="50" x="370" y="230.00000000000003" as="geometry" />
+          <mxGeometry height="14.69" width="50" x="376.12" y="228.00000000000003" as="geometry" />
         </mxCell>
         <mxCell id="lPvuPijrXA5V_kjDJQ-a-9" parent="1" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.antenna;network2IconYOffset=0.0004;network2IconW=0.508;network2IconH=0.9997;" value="FORTIAP" vertex="1">
           <mxGeometry height="49.985" width="25.4" x="260" y="120" as="geometry" />
